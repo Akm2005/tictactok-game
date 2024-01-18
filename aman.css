@@ -1,0 +1,42 @@
+.main{
+    display: flex;
+    width: 140px;
+    height: 140px;
+    border: 2px solid black;
+    flex-wrap: wrap;
+    margin:100px auto;
+
+}
+.input{
+    width: 30px;
+    height: 30px;
+    margin: 4px;
+    text-align: center;
+    font-size: 20px;
+    
+    
+}
+#result{
+    color: green;
+    text-align: center;
+    
+}
+.result{
+    color: green;
+    text-align: center;
+    
+}
+.btn{
+    height: 40px;
+    width: 100px;
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 3px;
+    margin: 15px;
+
+    
+}
+.btn:hover{
+    color: rgb(152, 230, 152);
+}
